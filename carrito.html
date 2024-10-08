@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="skin.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>carrito</title>
+</head>
+<body>
+    <div class="top">
+        <a href="index.html"><h1 class="logo"> <img src="logo.png" alt="logo" width="100" height="100"></h1></a>
+        <a href="carrito.html"><h1 class="carrito"><i class="bi bi-cart"></i><span id="numerito" class="numerito">0</span></h1></a>
+    </div>
+    <main>
+        <p id="carritoVacio" class="texto-vacio"><img src="carrito vacio.webp" class="imagen-vacio"></img></p>
+        <p id="carritoCompra" class="texto-comprado">Gracias por tu compra :D</p>
+        <div id="contenedor-carrito" class="contenedor-carrito">
+            <div id="todoCarrito" class="todo-carrito">
+                <div id="titulos" class="carrito-producto">
+                <p>Titulo</p>
+                <p>Cantidad</p>
+                <p>Valor</p>
+                <p>Total</p>
+                </div>
+        </div>
+        </div>
+        <div id="carritoAcciones" class="carrito-acciones">
+            <div class="carrito-izquierda">
+                <button id="vaciar-carrito" class="vaciar-carrito">Vaciar carrito</button>
+            </div>
+            <div class="carrito-medio">
+                <div class="carrito-total">
+                    <p>Total</p>
+                    <p id="total">30000</p>
+                </div>
+            </div>
+            <button id="boton-comprar" class="boton-comprar">Comprar</button>
+        </div>
+    </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./maincarrito.js"></script>
+</body>
+</html>

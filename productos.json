@@ -1,0 +1,93 @@
+[
+    {
+        "id": "Hamburguesa-01",
+        "nombre": "Hamburguesa simple",
+        "imagen": "insertar imagen",
+        "categoria": "hamburguesas",
+        "precio": 4900
+    },
+    {
+        "id": "Hamburguesa-02",
+        "nombre": "Hamburguesa clasica",
+        "imagen": "insertar imagen",
+        "categoria": "hamburguesas",
+        "precio": 7400
+    },
+    {
+        "id": "Hamburguesa-03",
+        "nombre": "Hamburguesa francoargenta",
+        "imagen": "insertar imagen",
+        "categoria": "hamburguesas",
+        "precio": 8200
+    },
+    {
+        "id": "Hamburguesa-04",
+        "nombre": "Hamburguesa sweet beacon",
+        "imagen": "insertar imagen",
+        "categoria": "hamburguesas",
+        "precio": 9600
+    },
+    {
+        "id": "Hamburguesa-05",
+        "nombre": "Hamburguesa capisci",
+        "imagen": "insertar imagen",
+        "categoria": "hamburguesas",
+        "precio": 10100
+    },
+    {
+        "id": "Lomito-01",
+        "nombre": "Lomito simple",
+        "imagen": "insertar imagen",
+        "categoria": "lomitos",
+        "precio": 6600
+    },
+    {
+        "id": "Lomito-02",
+        "nombre": "Lomito clasico",
+        "imagen": "insertar imagen",
+        "categoria": "lomitos",
+        "precio": 9300
+    },
+    {
+        "id": "Lomito-03",
+        "nombre": "Lomito birrero",
+        "imagen": "insertar imagen",
+        "categoria": "lomitos",
+        "precio": 9900
+    },
+    {
+        "id": "Lomito-04",
+        "nombre": "Lomito capisci",
+        "imagen": "insertar imagen",
+        "categoria": "lomitos",
+        "precio": 10900
+    },
+    {
+        "id": "Bebida-01",
+        "nombre": "Agua",
+        "imagen": "insertar imagen",
+        "categoria": "bebidas",
+        "precio": 3300
+    },
+    {
+        "id": "Bebida-02",
+        "nombre": "Coca Cola",
+        "imagen": "insertar imagen",
+        "categoria": "bebidas",
+        "precio": 4400
+    },
+    {
+        "id": "Bebida-03",
+        "nombre": "Heineken",
+        "imagen": "insertar imagen",
+        "categoria": "bebidas",
+        "precio": 6000
+    },
+    {
+        "id": "Bebida-04",
+        "nombre": "Santa Fe",
+        "imagen": "insertar imagen",
+        "categoria": "bebidas",
+        "precio": 4400
+    }
+]
